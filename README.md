@@ -14,7 +14,7 @@ The Recipe Book app which displays a group of meal categories.
 **Installation**
     Clone the repository
 ```
-  npm install
+  yarn
 ```
 ***Start the development server:***
 ```
